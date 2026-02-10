@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Kadir Gokdeniz
-- Approximate time spent:
+- Approximate time spent: 90 minutes
 
 ---
 
